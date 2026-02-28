@@ -34,3 +34,7 @@ ul li a:hover {
 ul li a.active {
   background-color: #04AA6D;
 }
+ul {
+  position: sticky;
+  top: 0;
+}
